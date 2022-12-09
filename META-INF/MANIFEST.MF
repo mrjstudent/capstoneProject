@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Bdd
+Bundle-SymbolicName: us.tekschool.capstone.bdd
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: us.tekschool.capstone.bdd
+Export-Package: core,
+ page.objects,
+ runner,
+ stepDefinitions,
+ utilities
