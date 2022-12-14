@@ -1842,3 +1842,80 @@
 2022-12-09 02:36:32,766 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioEdit your affiliate information from Cheque payment method to Bank Transferhas been ended.
 2022-12-09 02:36:32,804 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: Edit your account Information has been started
 2022-12-09 02:36:42,017 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioEdit your account Informationhas been ended.
+2022-12-10 01:07:34,099 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: Register as an Affiliate user with Cheque Payment Method has been started
+2022-12-10 01:07:59,560 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Methodhas been ended.
+2022-12-10 01:07:59,591 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: Edit your affiliate information from Cheque payment method to Bank Transfer has been started
+2022-12-10 01:08:06,710 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioEdit your affiliate information from Cheque payment method to Bank Transferhas been ended.
+2022-12-10 01:08:06,736 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: Edit your account Information has been started
+2022-12-10 01:08:18,833 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioEdit your account Informationhas been ended.
+2022-12-11 00:44:29,908 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: Register as an Affiliate user with Cheque Payment Method has been started
+2022-12-11 00:44:40,117 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Methodhas been ended.
+2022-12-11 00:44:40,160 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: Edit your affiliate information from Cheque payment method to Bank Transfer has been started
+2022-12-11 00:44:54,350 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioEdit your affiliate information from Cheque payment method to Bank Transferhas been ended.
+2022-12-11 00:44:54,389 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: Edit your account Information has been started
+2022-12-11 00:45:04,354 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioEdit your account Informationhas been ended.
+2022-12-14 00:03:06,013 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: User add HP LP 3065 from Desktops tab to the cart has been started
+2022-12-14 00:03:13,522 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on desktop tab
+2022-12-14 00:03:16,535 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on show all desktop item tab
+2022-12-14 00:03:16,595 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,620 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,644 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,672 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,695 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,719 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,748 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,771 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,797 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,823 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,850 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,878 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:16,899 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:19,527 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on HP Model
+2022-12-14 00:03:22,043 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on add to cart button
+2022-12-14 00:03:24,199 [main] INFO .\src\test\resources\Input\Log4j.properties - adding the quantity
+2022-12-14 00:03:26,900 [main] INFO .\src\test\resources\Input\Log4j.properties - confirming the add to cart message
+2022-12-14 00:03:27,244 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioUser add HP LP 3065 from Desktops tab to the carthas been ended.
+2022-12-14 00:03:27,363 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: User add Canon EOS5D from Desktops tab to the cart has been started
+2022-12-14 00:03:33,250 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on desktop tab
+2022-12-14 00:03:37,103 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on show all desktop item tab
+2022-12-14 00:03:37,352 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,408 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,505 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,552 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,597 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,640 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,677 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,715 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,756 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,797 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,846 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,892 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:37,931 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:39,890 [main] INFO .\src\test\resources\Input\Log4j.properties - adding the Camera to cart
+2022-12-14 00:03:42,097 [main] INFO .\src\test\resources\Input\Log4j.properties - Choosing the camera color
+2022-12-14 00:03:44,241 [main] INFO .\src\test\resources\Input\Log4j.properties - adding the quantity
+2022-12-14 00:03:46,971 [main] INFO .\src\test\resources\Input\Log4j.properties - confirming the add to cart message
+2022-12-14 00:03:49,287 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioUser add Canon EOS5D from Desktops tab to the carthas been ended.
+2022-12-14 00:03:49,333 [main] INFO .\src\test\resources\Input\Log4j.properties - Scenario: User add a review to Canon EOS 5D item in Desktops tab has been started
+2022-12-14 00:03:54,100 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on desktop tab
+2022-12-14 00:03:57,476 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on show all desktop item tab
+2022-12-14 00:03:57,844 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:57,891 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:57,962 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,026 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,094 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,156 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,274 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,357 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,415 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,475 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,507 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,540 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:03:58,581 [main] INFO .\src\test\resources\Input\Log4j.properties - checking the whole elements
+2022-12-14 00:04:01,488 [main] INFO .\src\test\resources\Input\Log4j.properties - opening the camera page
+2022-12-14 00:04:03,625 [main] INFO .\src\test\resources\Input\Log4j.properties - clicking on review button
+2022-12-14 00:04:05,774 [main] INFO .\src\test\resources\Input\Log4j.properties - typing the name
+2022-12-14 00:04:08,100 [main] INFO .\src\test\resources\Input\Log4j.properties - writing the comments
+2022-12-14 00:04:10,235 [main] INFO .\src\test\resources\Input\Log4j.properties - choosing the rating level
+2022-12-14 00:04:12,506 [main] INFO .\src\test\resources\Input\Log4j.properties - confirming the submitting message
+2022-12-14 00:04:14,874 [main] INFO .\src\test\resources\Input\Log4j.properties - ScenarioUser add a review to Canon EOS 5D item in Desktops tabhas been ended.

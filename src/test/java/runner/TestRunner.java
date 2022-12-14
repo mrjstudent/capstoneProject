@@ -10,18 +10,20 @@ import utilities.CucumberReporting;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features =".\\src\\test\\resources\\Features",         //classPath:Features",//\src\test\resources\Features
+		features =".\\src\\test\\resources\\Features",  //classPath:Features",//\src\test\resources\Features
 		glue = "stepDefinitions",
 		dryRun = false,  
-		tags ="@RetailPage",
+		tags ="@DesktopPage",
 		monochrome = true, 
 		strict = true, 
-		plugin = {"pretty","html:target/site/cucumber-pretty","json:target/cucumber.json"},
+		plugin = {"pretty",
+				"html:target/site/cucumber-pretty",
+				"json:target/cucumber.json"},
 		publish = true
 		
 		)
 public class TestRunner {
-@AfterClass
+    @AfterClass
 	public static void gerateReport() {
 	CucumberReporting.reportConfig();
 }
